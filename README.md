@@ -56,17 +56,17 @@
 
 ---
 
-## ⚡ Fortalezas Profesionales
+## Fortalezas Profesionales
 
-- 🧩 Arquitectura limpia, estructurada y escalable  
-- 🎯 Orientación a resultados y optimización de procesos  
-- 🌱 Aprendizaje constante de tecnologías modernas  
-- 🖥️ Dominio del flujo completo: UI → API → DB → Cloud  
-- 📦 Automatización con Docker y despliegue en Azure  
+- Arquitectura limpia, estructurada y escalable  
+- Orientación a resultados y optimización de procesos  
+- Aprendizaje constante de tecnologías modernas  
+- Dominio del flujo completo: UI → API → DB → Cloud  
+- Automatización con Docker y despliegue en Azure  
 
 ---
 
-## 🎯 En aprendizaje
+## En aprendizaje
 
 Actualmente profundizo en:
 - Ciencia de datos con Python (`pandas`, `numpy`)
