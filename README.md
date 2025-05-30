@@ -75,4 +75,4 @@ Actualmente profundizo en:
 
 ---
 
-<p align="center"><em>“El código es una herramienta para transformar ideas en impacto.”</em></p>
+<p align="center"><em>“Construyo soluciones con propósito, alineando lógica, rendimiento y experiencia de usuario.”</em></p>
